@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @DaW888
 - 👀 I’m interested in FullStack Programming.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning NextJs, Rust.
 - 📫 How to reach me https://linkedin/com/in/ddwajda
 
 <!---
