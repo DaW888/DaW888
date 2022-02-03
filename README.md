@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DaW888
+- 👋 Hi, I’m Dawid Wajda
 - 👀 I’m interested in FullStack Programming.
 - 🌱 I’m currently learning NextJs, Rust.
 - 📫 How to reach me https://linkedin/com/in/ddwajda
